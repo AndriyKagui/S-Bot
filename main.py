@@ -1,3 +1,5 @@
+from aifc import Error
+
 import telebot
 from telebot import types
 import config

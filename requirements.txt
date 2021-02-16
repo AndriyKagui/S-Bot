@@ -1,1 +1,2 @@
-#necessary libraries tho run the bot
+mysql_connector_repackaged==0.3.1
+pyTelegramBotAPI==3.7.6
